@@ -1,2 +1,2 @@
 # Notas
-Este es un repositorio de prueba
+Este es un repositorio inicial de mi proyecto
